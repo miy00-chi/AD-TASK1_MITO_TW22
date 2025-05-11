@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Akaya+Kanadaka&family=Atkinson+Hyperlegible+Mono:ital@0;1&family=Borel&family=Bubbler+One&family=Crafty+Girls&family=Fuzzy+Bubbles:wght@400;700&family=Hachi+Maru+Pop&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Onest:wght@100..900&family=Poppins&family=Rubik+Puddles&family=Share+Tech+Mono&family=Sour+Gummy:ital,wght@0,100..900;1,100..900&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: "Poppins", sans-serif;
+    font-style: normal;
+    text-align: center;
+}
+
+body{
+    background: #9FB3DF;
+    background: linear-gradient(90deg, rgba(159, 179, 223, 1) 0%, rgba(158, 198, 243, 1) 35%, rgba(255, 241, 213, 1) 100%);
+
+}
+
+.title{
+    margin-top: 15%;
+    margin-bottom: 2%;
+
+}
+
+.title h1{
+    font-size: 400%;
+    font-weight: 900;
+}
+
+.link{
+    font-size: 300%;
+    font-weight: 900;
+    padding: 5px;
+}
+
+.link a{
+    text-decoration: none;
+    background-color: #9EC6F3;
+    padding: 20px;
+    border-radius: 40px;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px, rgb(51, 51, 51) 0px 0px 0px 3px;
+    color: #FFF1D5;
+}
