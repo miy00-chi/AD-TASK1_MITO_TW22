@@ -7,15 +7,18 @@
     <link rel = "stylesheet" href = "assets\css\style-landingPage.css">
 </head>
 <body>
-    <div class="title">
-        <h1>COME AND TEST YOUR LUCK</h1>
+    <div class="container">
+        <div class="title">
+        <h1>FORTUNE TELLER</h1>
         <h3>Will you be lucky for today?<br>
             or<br>
-            Will you have to wait for that lucky day?
+            Will you face misfortune?
         </h3>
-    </div>
-    <div class="link">
-        <a href="http://localhost/AD-TASK1_MITO_TW22/page/index.php">TEST YOUR LUCK</a>
+        </div>
+        <div class="link">
+            <a href="page\index.php">GET YOUR LUCK</a>
+        </div>
+        <img src="assets\img\cat.gif">
     </div>
 </body>
 </html>

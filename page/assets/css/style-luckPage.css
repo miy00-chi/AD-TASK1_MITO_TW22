@@ -10,13 +10,12 @@
 }
 
 body{
-    background: #FED2E2;
-
+    background-color: #D76C82;
 }
 
 .container{
-    background-color: #FFFF;
-    height: 910px;
+    background-color: #fff;
+    height: 920px;
     width: 900px;
     margin: 3% 32%;
     padding: 15px;
@@ -25,26 +24,65 @@ body{
     box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
 }
 
-.title{
-    margin-top: 15%;
-    margin-bottom: 10%;
+.container h1{
+    margin-top: 7%;
+    margin-bottom: 5%;
+    font-size: 300%;
+    color: #3D0301;
 }
 
-.title h1{
-    font-size: 500%;
-    font-weight: 900;
-    margin-bottom: 2%;
-    color: #C68EFD;
-}
-
-.title h3{
-    font-size: 30px;
-    color: #C68EFD;
+.container p{
+    font-size:170%;
     margin-top: 5%;
+    margin-bottom: 5%;
+    color: #3D0301;
 }
+
+.container li{
+    font-size: 150%;
+    margin-top: 10px;
+}
+
+.container img{
+    width: 200px;
+}
+
+
+.color-number {
+    color: #B03052;
+    font-size: 130%;
+}
+
+.color-red{
+    color: red;
+    font-size: 130%;
+}
+
+.color-blue{
+    color: blue;
+    font-size: 130%;
+}
+
+.color-green{
+    color: green;
+    font-size: 130%;
+}
+
+.color-yellow{
+    color: yellow;
+    font-size: 130%;
+}
+
+.color-purple{
+    color: purple;
+    font-size: 130%;
+}
+
+
 
 .link{
-    font-size: 300%;
+    margin-top: 5%;
+    font-size: 200%;
     font-weight: 900;
     padding: 5px;
 }
@@ -55,17 +93,31 @@ body{
     padding: 20px;
     border-radius: 40px;
     box-shadow: rgba(6, 24, 44, 0.4) 0px 0px 0px 2px, rgba(6, 24, 44, 0.65) 0px 4px 6px -1px, rgba(255, 255, 255, 0.08) 0px 1px 0px inset;
-    color: #8F87F1;
+    color: #3D0301;
 }
 
 .link a:hover{
-    color: #E9A5F1;
+    color: #B03052;
+    background-color: #FFFF;
 }
 
-.container img{
-    width: 300px;
-    height: 250px;
+.container .return{
     margin-top: 5%;
-    position: relative;
-    left: 47px;
+    font-weight: 900;
+}
+
+.container .return a{
+    text-decoration: none;
+    font-size: 300%;
+    color: #3D0301;
+
+}
+
+.container .return i{
+    font-weight: 900;
+}
+
+.return a:hover{
+    color: #B03052;
+    background-color: #FFFF;
 }
