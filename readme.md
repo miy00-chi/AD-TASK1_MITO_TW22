@@ -112,7 +112,7 @@ Description of the project in details.
 10. File Structure to follow below.
 
 ```
-AD-ProjectName
+AD-tASK-1
 └─ assets
 |   └─ css
 |   |   └─ name.css
@@ -123,7 +123,7 @@ AD-ProjectName
 └─ components
 |   └─ name.component.php
 └─ pages
-|  └─ pageName
+|  └─ luckPage
 |     └─ assets
 |     |  └─ css
 |     |  |  └─ name.css
