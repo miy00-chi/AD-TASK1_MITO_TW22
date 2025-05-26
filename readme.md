@@ -98,7 +98,7 @@
 10. File Structure to follow below.
 
 ```
-AD-ProjectName
+AD-tASK-1
 └─ assets
 |   └─ css
 |   |   └─ style.css
@@ -106,7 +106,7 @@ AD-ProjectName
 |       └─ cat.gif
 |       └─ Motivation-LandingPage.jpg
 └─ pages
-|    └─ assets
+|    └─ assetsgu
 |    |  └─ css
 |    |  |  └─ style.css
 |    |  └─ img
