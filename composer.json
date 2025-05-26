@@ -1,0 +1,16 @@
+{
+    "name": "user/ad-task1_mito_tw22",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "User\\AdTask1MitoTw22\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Hazel Mito",
+            "email": "hazelmito2029@gmail.com"
+        }
+    ],
+    "require": {}
+}
